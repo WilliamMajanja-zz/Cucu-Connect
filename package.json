@@ -1,0 +1,23 @@
+{
+    "name": "CuCu-connect-",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1nf1del/CuCu-connect-"
+    },
+    "author": "1nf1D3L",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/1nf1del/CuCu-connect-/issues"
+    },
+    "homepage": "https://github.com/1nf1del/CuCu-connect-#readme",
+    "dependencies": {
+        "messenger-bot": "^2.4.0"
+    }
+}
